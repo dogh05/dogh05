@@ -6,10 +6,10 @@
 
 ## 🔥 About Me
 - 🎓 I’m currently a **student**
-- 🌱 I’m learning **[technologies you're learning]**
+- 🌱 I’m learning **java,python**
 - 🧠 I enjoy solving problems and building useful applications
-- 🎯 My goal is to **[your goal, e.g. become a full-stack developer]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 🎯 My goal is to **[become a full-stack developer**
+- ⚡ Fun fact: **i love sports**
 
 ---
 
