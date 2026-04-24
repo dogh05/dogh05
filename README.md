@@ -74,9 +74,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME  
+- 💼 LinkedIn: (https://www.linkedin.com/in/ahmed-doghman-995469321/) 
 - 🐦 Twitter: https://twitter.com/YOUR_USERNAME  
-- 📧 Email: your.email@example.com  
+- 📧 Email: hmeddogh@gmail.com 
 
 ---
 
