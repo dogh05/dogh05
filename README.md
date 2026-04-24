@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Your Name
 
-💻 Passionate Developer | 🚀 Tech Enthusiast | 🌍 Based in [Your Country]
+💻 Passionate Developer | 🚀 Tech Enthusiast | 🌍 Based in Tunisia
 
 ---
 
 ## 🔥 About Me
-- 🎓 I’m currently a **[student / self-taught developer / engineer]**
+- 🎓 I’m currently a **student**
 - 🌱 I’m learning **[technologies you're learning]**
 - 🧠 I enjoy solving problems and building useful applications
 - 🎯 My goal is to **[your goal, e.g. become a full-stack developer]**
